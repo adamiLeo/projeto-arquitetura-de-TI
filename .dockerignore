@@ -1,0 +1,16 @@
+# Ignorar arquivos de configuração do sistema
+*.pyc
+__pycache__/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar diretórios de ambiente virtual
+venv/
+env/
+
+# Ignorar arquivos de teste
+tests/
+
+# Ignorar arquivos de backup
+*~
