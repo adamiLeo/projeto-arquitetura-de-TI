@@ -142,7 +142,7 @@ def main_menu(manager):
         print("1. Ver Status dos Quartos")
         print("2. Realizar Check-in")
         print("3. Realizar Check-out")
-        print("4. Sair")
+        print("4. Sai")
         
         choice = input("Escolha uma opção: ")
 
