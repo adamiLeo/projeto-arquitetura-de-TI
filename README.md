@@ -5,6 +5,7 @@ Integrantes do Grupo
 Leonardo Da Silva Adami
 Guilherme Lacerda Araújo Da Silva 
 Adriano Bruno Pacheco 
+Vinicius Takayoshi Sato
 
 # Explicação do Projeto 
 
